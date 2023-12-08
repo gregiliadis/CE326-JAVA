@@ -1,4 +1,4 @@
-In order to run the file browser execute the following command in the same directory with the build.xml fil:
+In order to run the file browser execute the following command in the same directory with the build.xml file:
 
 ant run
 
